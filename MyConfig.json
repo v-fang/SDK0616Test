@@ -1,0 +1,6 @@
+{
+    "ApplicationInsights": {
+      "InstrumentationKey": "7702b473-1cee-4cfd-bdff-fdee30c48212",
+      "EnableQuickPulseMetricStream": false
+    }
+}
